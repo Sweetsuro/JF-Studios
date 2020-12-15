@@ -31,19 +31,17 @@ N/A
 
 Features (Key Presses)
 -----------
-Key		Description
+Up
+* Scrolls up tracks to see any tracks hidden after scrolling down. This key will not work if the top most track is visible.
 
-Up		Scrolls up tracks to see any tracks hidden after scrolling 
-		down. This key will not work if the top most track is visible.
+Down
+* Scrolls down tracks to see any tracks that are hidden by the volume balancer. Once the bottom most track is visible, this key will not work.
 
-Down		Scrolls down tracks to see any tracks that are hidden by the 
-		volume balancer. Once the bottom most track is visible, this 
-		key will not work.
+Left
+* Scrolls backwards in time by half a second. Capped at the start position, or 00:00:00.
 
-Left		Scrolls backwards in time by half a second. Capped at the start 
-		position, or 00:00:00.
-
-Right		Scrolls forward in time by half a second. 
+Right		
+* Scrolls forward in time by half a second. 
 	
 
 Features (UI)
