@@ -102,13 +102,13 @@ Compressor
 * Button labelled compressor in the FX Manager.
 * A compressor runs by using a ‘threshold’, ‘ratio’, ‘attack’, and ‘delay’ (delay is also commonly referred to as the release). A compressor reduces the dynamic range of the overall signal. To apply the filter, click the green checkmark. To cancel, click the red x.
 * Threshold
-** This indicates how loud the signal must be before compression is applied (in dB). Default value is -20.0 db.
+	* This indicates how loud the signal must be before compression is applied (in dB). Default value is -20.0 db.
 * Ratio 
-** This indicates how much compression is used. For example, if the compression ratio is set to 4:1 (as in the default settings by inputting 4), the input signal will have to cross the threshold by 4 dB for the output volume to increase by 1dB. Default value is 4 (represents 1:4).
+	* This indicates how much compression is used. For example, if the compression ratio is set to 4:1 (as in the default settings by inputting 4), the input signal will have to cross the threshold by 4 dB for the output volume to increase by 1dB. Default value is 4 (represents 1:4).
 * Attack 
-** This refers to how quickly the compressor starts to work. Default value is 5 milliseconds.
+	* This refers to how quickly the compressor starts to work. Default value is 5 milliseconds.
 * Delay
-** This refers to how fast the compressor stops after dipping below the threshold. Default value is 100 milliseconds.
+	* This refers to how fast the compressor stops after dipping below the threshold. Default value is 100 milliseconds.
 
 Low Pass Filter
 * Button labelled low pass filter in the FX Manager.
