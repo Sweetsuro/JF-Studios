@@ -46,25 +46,13 @@ Right
 
 Features (UI)
 -----------
-Feature			Location				Description
+Selector		
+* Blue line with a triangle on top.	
+* Enables you to play a song from any location, and indicates what portion of the song is playing. Do not change its location while songs are playing. Clicking within the track sections (after the “New Track” labels, above the Master volume interface, and below the import/export/new track buttons) enables you to change the location of the selector. Clicking in the region of the “New Track” labels (the left labels, not to be confused with the ones in the volume balancer interface) resets the position of the selector to the very beginning. The rightmost silver arrow allows the user to go to the next waveform section in time (impacts all tracks).
 
-Selector		Blue line with a triangle on top.	Enables you to play a song from any location, 
-								and indicates what portion of the song is playing.
-								Do not change its location while songs are playing.
-								Clicking within the track sections (after the “New 
-								Track” labels, above the Master volume interface, 
-								and below the import/export/new track buttons) 
-								enables you to change the location of the selector. 
-								Clicking in the region of the “New Track” labels 
-								(the left labels, not to be confused with the ones in 
-								the volume balancer interface) resets the position of 
-								the selector to the very beginning. The rightmost silver 
-								arrow allows the user to go to the next waveform section 
-								in time (impacts all tracks).
-
-Import			Manilla colored folder with an orange 	Works via file explorer to find songs in .wav format. 
-			arrow pointing into it.			Initialized to start in the “SongFiles” directory. Can 
-								only be used if an empty track is available.
+Import
+* Manilla colored folder with an orange arrow pointing into it. Initialized to start in the “SongFiles” directory. 
+* Works via file explorer to find songs in .wav format. Can only be used if an empty track is available.
 						
 Export			Manilla colored folder with an orange 	Creates a mixdown of whatever state all of your songs are 
 			arrow pointing outside of it. Next to 	in. The final creation can be found in the SongFiles 
