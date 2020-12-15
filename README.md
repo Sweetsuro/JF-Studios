@@ -1,5 +1,6 @@
 # JF-Studios
 Project Description
+-----------
 The name of my project is JF Studio, which is short for Jellyfish Studio. 
 JF Studio is a DAW (digital audio workstation) which allows users to produce 
 audio files. Aside from some standard functionalities, such as being able to 
@@ -9,6 +10,7 @@ compress, and volume balance audio files.
 
 
 How to Run the Project
+-----------
 The user should run the term_project.py file in an editor, making sure that 
 the song.py file is also present in the same directory. Additionally, the 
 folder “SongFiles” is where audio files/final exports are stored, and should 
@@ -16,16 +18,19 @@ also be present in the same directory.
 
 
 External Libraries
+-----------
 * pyaudio
 * pydub
 * numpy
 
 
 Shortcut Commands
+-----------
 N/A 
 
 
 Features (Key Presses)
+-----------
 Key		Description
 
 Up		Scrolls up tracks to see any tracks hidden after scrolling 
@@ -42,6 +47,7 @@ Right		Scrolls forward in time by half a second.
 	
 
 Features (UI)
+-----------
 Feature			Location				Description
 
 Selector		Blue line with a triangle on top.	Enables you to play a song from any location, 
